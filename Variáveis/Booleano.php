@@ -1,5 +1,10 @@
 <?php
 
+################################################
+#                  Booleano                    #
+################################################
+
+
 /**
  * Um booleano expressa um valor lógico que pode ser verdadeiro ou falso. 
  * Para especificar um valor booleano, utilize as palavras-chave TRUE ou FALSE

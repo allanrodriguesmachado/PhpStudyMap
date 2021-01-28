@@ -1,5 +1,9 @@
 <?php
 
+################################################
+#                  String                      #
+################################################
+
 /**
  * Uma string é uma cadeia de caracteres alfanuméricos. Para declara-la
  * podemos utilizar aspas simples '' ou aspas duplas ""

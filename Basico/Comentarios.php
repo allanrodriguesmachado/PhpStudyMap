@@ -1,5 +1,9 @@
 <?php
 
+################################################
+#                  Comentarios                 #
+################################################
+
 //Comentario de uma única linha
 #Comentario de uma única linha
 

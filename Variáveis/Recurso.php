@@ -1,5 +1,10 @@
 <?php
 
+################################################
+#                  Recursos                    #
+################################################
+
+
 /**
  *  Recurso (resource) é uma variavel especial que mantém uma referência
  * de recursos externo. Recursos são criados e utilizados por funções 
