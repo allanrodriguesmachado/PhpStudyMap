@@ -1,5 +1,9 @@
 <?php
 
+################################################
+#                  Array                       #
+################################################
+
 /**
  * Array é uma lista de valores armazenados na memoria, os quais podem
  * ser de tipos diferentes(Númericos, String, Objetos) e podem ser 

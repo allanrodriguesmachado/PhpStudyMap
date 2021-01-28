@@ -1,5 +1,12 @@
 <?php
 
+################################################
+#             Comandos de saida                #
+################################################
+
+
+
+
 /**
  *  Os Comandos usados para dar (output) gerar uma sáida na tela.
  *  Podemos tambem executar no (prompt do sistema), mas sua saida

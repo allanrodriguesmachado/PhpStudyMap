@@ -1,5 +1,9 @@
 <?php
 
+################################################
+#                  Objeto                      #
+################################################
+
 /**
  * Um objeto é uma entidade com um determinado comportamento definido
  * por seus métodos(ações) e propriedades(dados). Para criar um objeto deve-se

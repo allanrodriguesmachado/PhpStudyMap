@@ -1,5 +1,9 @@
 <?php
 
+################################################
+#                  Misto                       #
+################################################
+
 /**
  * Misto (mixed) representa muliplos (não necessariamente todos) 
  * Tipos de daos em um mesmo parâmetro. Um parâmetro do tipo mixed

@@ -1,5 +1,10 @@
 <?php
 
+################################################
+#                  Definição                   #
+################################################
+
+
 /**
  * Variáveis são identificadores utilizados para representar valores mutaveis e voláteis,
  * que só existem durante na execução do código, elas ficam armazenadas na memoria

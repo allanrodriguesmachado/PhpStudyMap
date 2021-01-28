@@ -1,5 +1,9 @@
 <?php
 
+################################################
+#                  Callback                    #
+################################################
+
 /**
  * Algumas funções como call_user_func() aceitam um parâmetro que 
  * significa uma função a ser executada. Este tipo de dados é chamado

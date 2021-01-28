@@ -1,5 +1,9 @@
 <?php
 
+################################################
+#                  Constante                   #
+################################################
+
 /**
  * Uma é um valor que não pode ser alterado durante a execução do 
  * programa, ela é representada por um identificador, assim como as
