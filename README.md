@@ -1,7 +1,5 @@
 [allanrodriguesmachado - Overview](https://github.com/allanrodriguesmachado)
 
-[JavaScript is not available.](https://twitter.com/AllanRo23999295)
-
 > 🧠 Base de estudo sobre PHP, tudo que linguagem pode oferecer, todo estudo voltado a orientação a objetos
 
 # PHP
