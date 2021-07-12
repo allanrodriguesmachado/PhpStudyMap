@@ -1,4 +1,8 @@
+# Developer PHP
+
 [allanrodriguesmachado - Overview](https://github.com/allanrodriguesmachado)
+
+[JavaScript is not available.](https://twitter.com/AllanRo23999295)
 
 > 🧠 Base de estudo sobre PHP, tudo que linguagem pode oferecer, todo estudo voltado a orientação a objetos
 
@@ -6,14 +10,15 @@
 
 ## Um Programa em PHP
 
-- [ ]  Extensão de arquivos
+Extensão de arquivos
 
 > Formas de nomear programas em PHP
 
-- .PHP → Arquivo PHP contendo um programa
-- .class.php → Arquivo PHP contendo uma classe ou podemos iniciar a classe com letra maiúscula
+- .PHP → Arquivo PHP contendo um programa.
 
-- [ ]  Delimitadores de código
+→ exemplo.php
+
+Delimitadores de código
 
 > O código PHP deve ser escrito dentro dos delimitadores de código, pois se o código estiver fora dos delimitadores não será interpretado
 
@@ -298,7 +303,7 @@ echo $a % $b;
 - `<`→ Menor
 - `<=` → Menor ou igual
 - `>` → Maior
-- `>`= → Maior ou igual
+- `>=` → Maior ou igual
 
 ```php
 
@@ -391,9 +396,9 @@ if(!$tempoBom || $tempoRuim){
 
 ## Estrutura de controle
 
-- O `if` é uma estrutura de controle que introduz um desvio condicional. Caso a condição dada pela expressão seja atendida, ele retorna o que esta dentro do bloco de comando `if`, caso não seja atendida ele ignora o bloco. O comando `if` poder ser lido "SE (expressão) ENTÃO {comandos }".
+O `if` é uma estrutura de controle que introduz um desvio condicional. Caso a condição dada pela expressão seja atendida, ele retorna o que esta dentro do bloco de comando `if`, caso não seja atendida ele ignora o bloco. O comando `if` poder ser lido "SE (expressão) ENTÃO {comandos }". 
 
-- O `else` é utilizado para informar um novo bloco de comando, caso a condição do `if` não seja atendida ele cai na condição do `else`. O comando `else` pode ser lido "CASO CONTRARIO (expressão)".  E a utilização do `else` não é obrigatória no código, mas é sempre bom esta utilizando para manter uma sequencia logica no código
+O `else` é utilizado para informar um novo bloco de comando, caso a condição do `if` não seja atendida ele cai na condição do `else`. O comando `else` pode ser lido "CASO CONTRARIO (expressão)".  E a utilização do `else` não é obrigatória no código, mas é sempre bom esta utilizando para manter uma sequencia logica no código
 
 - [ ]  if
 
@@ -413,7 +418,7 @@ if($a > $b){
 
 - [ ]  else
 
-> O construtor `else`, sempre vai retornar um valor `FALSE`, pois ele é uma extensão da expressão `if`, caso a expressão `if` não seja atendida, ele retornar o `else` que tem seu valor como `FALSE`
+> O construtor `else`, sempre vai retornar um valor `FALSE`, pois ele é uma extensão da expressão `if`, caso a expressão `if` não seja atendida, ele retornar o `else` que tem seu valor como FALSE
 
 ```php
 <?php
@@ -693,3 +698,95 @@ echo fatorial(4)
 
 ?>
 ```
+
+Manipulação de arquivos e diretórios
+
+Manipulação de string
+
+Manipulação de arrays
+
+Manipulação de Objetos
+
+---
+
+# Orientação a Objetos
+
+Introdução
+
+Classe
+
+Objeto
+
+Construtores e destrutores
+
+Herança Polimorfismo
+
+Abstração
+
+Encapsulamento
+
+Membros da classe
+
+Associação, agregação e composição
+
+Intercepções
+
+Interfaces 
+
+Método __clone()
+
+Autoload
+
+Objetos dinâmicos
+
+Manipulação de XML
+
+Tratamento de erros
+
+---
+
+# Manipulação de dados
+
+Acesso nativo
+
+PDO:: PDO Data objects
+
+API  Orientada a objetos
+
+---
+
+# Mapeamento Objeto-Relacional
+
+Persistência
+
+Mapeamento objeto-relacional
+
+Modelo de negócios
+
+Gateways
+
+Manipulando objetos
+
+Manipulando Coleções
+
+Aspectos avançados
+
+---
+
+# Apresentação e controle
+
+Introdução
+
+Contêineres
+
+Diálogos e controles
+
+---
+
+# Formulários e listagens
+
+Formulários
+
+Formulário orientado a objetos
+
+Listagem orientada a objetos
