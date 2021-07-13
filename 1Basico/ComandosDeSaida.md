@@ -1,4 +1,3 @@
-<?php
 
 ################################################
 #             Comandos de saida                #
@@ -8,7 +7,7 @@
 
 
 /**
- *  Os Comandos usados para dar (output) gerar uma sáida na tela.
+ *  Os Comandos de sáida são usados para dar (output) gerar uma sáida na tela.
  *  Podemos tambem executar no (prompt do sistema), mas sua saida
  *  será no proprio console. O programa pode ser executado via servidor
  *  de páginas WEB (APACHE ou IIS), a saida sera na pagina html
