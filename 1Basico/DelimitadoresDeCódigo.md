@@ -18,3 +18,5 @@ O código PHP deve ser escrito dentro dos delimitadores de código, pois se o c�
 
 ?>
 ```
+
+### -> [Comentarios](Comentarios.md) 🚀
