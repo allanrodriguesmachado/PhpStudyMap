@@ -1,8 +1,8 @@
 # Allan Rodrigues Macahado 🚀
 	
->Olá Sou o Allan Rodrigues Machado, estou documentando toda minha base de estudo em PHP, estou iniciando minha carreira e pretendo documentar tudo não só para estudo proprio mas sim com a inteção de contribuir com a comunidade e ajudar de algumar forma quem está començando.
+>Olá Sou o Allan Rodrigues Machado,estou criando um roadmap em  PHP da minha base de estudos, estou iniciando minha carreira e pretendo documentar tudo não só para estudo próprio, mas com a intenção principal de contribuir com a comunidade e ajudar de alguma forma quem está começando.
 >
->Estou aberto a sugestões e correções se possivel deixei seu feedback ficarei muito grato. #BoraProgramar
+>Estou aberto a sugestões e correções se possível deixei seu feedback ficarei muito grato.  #BoraProgramar
 
 #
 
