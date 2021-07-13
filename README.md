@@ -13,9 +13,9 @@
 ## ROADMAP
 
 ### Introdução
-0. [Comentarios](/1Basico/Comentarios.md)
-1. [Comandos De Saida ](/1Basico/Comentarios.md)
-2. [Delimitadores De Código](/1Basico/DelimitadoresDeCódigo)
+0. [Delimitadores De Código](/1Basico/DelimitadoresDeCódigo)
+1. [Comentarios](/1Basico/Comentarios.md)
+2. [Comandos De Saida ](/1Basico/Comentarios.md) 
 
 
 
