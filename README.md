@@ -17,7 +17,8 @@
 1. [Comentarios](/1Basico/Comentarios.md)
 2. [Comandos De Saida ](/1Basico/ComandosDeSaida.md) 
 
-
+### Variaveis
+0. [Variaveis](/2Variaveis/Variaveis.md)
 
 
 #

@@ -1,15 +1,11 @@
 # Roadmap - PHP
 
 
-
-
 ## 1.1 Basíco
-
 
 - [x]  Delimitadores de código
 - [x]  Comentários
-- [ ]  Comandos de saída
-
+- [x]  Comandos de saída
 
 # 
 
@@ -28,6 +24,5 @@
 </a>
 </p>
 
-
-#
+###
 @allanrodriguesmachado
