@@ -8,7 +8,7 @@
 #### pt-BR
 `Comentários` serve para passar alguma informação sobre nosso código, ou descrever algo sobre as classes, mas devemos tomar muito cuidado com os comentários, para não ficar aquele código cheio de comentários, e comentar somente quando necessário.
 
-#
+###
 
 ```php
 <?php

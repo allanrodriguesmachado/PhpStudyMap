@@ -36,7 +36,7 @@ O PHP é case sensitive, isso significa que o seu conteúdo é sensível a letra
 ter cuidado ao declarar nossas variáveis, pois a variável `$firstName` é tratada de uma forma totalmente diferente da 
 variável `$FirstName` o PHP entende serem variáveis com valores totalmente diferentes.
 
-### Ir para [Booleano](Booleano)🚀
+### Ir para [Booleano](Booleano.md)🚀
 
 #
 
