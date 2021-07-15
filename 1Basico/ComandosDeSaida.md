@@ -56,7 +56,9 @@ do array para o fim, nesse caso devemos sempre usar o `reset()`.
    print_r($dados);
 ?>
 ```
-```
+
+### -> [Variaveis](/2Variaveis/) 🚀
 
 #
+
 @allanrodriguesmachado
