@@ -31,7 +31,7 @@
      **/
 ?>
 ```
-
+### Ir Para [Comandos De Saída](ComandosDeSaida.md) 🚀
 
 #
 @allanrodriguesmachado
