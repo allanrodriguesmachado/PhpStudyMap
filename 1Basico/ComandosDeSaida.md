@@ -57,7 +57,7 @@ do array para o fim, nesse caso devemos sempre usar o `reset()`.
 ?>
 ```
 
-### -> [Variaveis](/2Variaveis/) 🚀
+### -> [Variaveis](/2Variaveis/Variaveis.md) 🚀
 
 #
 
