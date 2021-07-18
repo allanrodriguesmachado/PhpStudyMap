@@ -1,4 +1,4 @@
-# Tipo Numérico                
+# Numérico                
 
 #### en-US
 
