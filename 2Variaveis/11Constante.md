@@ -34,7 +34,7 @@ pode ser alterada a qualquer momento.
 ```
 
 
-### Ir para []()🚀
+### Ir para [Operadores](/3Operadores/1Atribuicao.md)🚀
 
 #
 @allanrodriguesmachado
