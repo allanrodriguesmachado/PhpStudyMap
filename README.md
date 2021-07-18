@@ -18,7 +18,7 @@
 2. [Comandos De Saida ](/1Basico/ComandosDeSaida.md) 
 
 ### Variaveis
-0. [Variaveis](/2Variaveis/Variaveis.md)
+0. [Variaveis](/2Variaveis/1Variaveis.md)
 
 
 #

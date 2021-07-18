@@ -21,7 +21,7 @@
 ```
 
 
-### Ir para [String](/String.md)🚀
+### Ir para [String](4String.md)🚀
 
 #
 @allanrodriguesmachado
