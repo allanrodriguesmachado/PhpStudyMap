@@ -41,6 +41,14 @@
 2. [Relacionais](/3Operadores/3Relacionais.md)
 3. [Lógicos](/3Operadores/4Logicos.md)
 
+### Estrutura de controle
+1. [If Else](/4EstruturaDeControle/1IfElse.md)
+2. [While](/4EstruturaDeControle/2While.md)
+3. [For](/4EstruturaDeControle/3For.md)
+4. [Switch](/4EstruturaDeControle/4Switch.md)
+5. [Foreach](/4EstruturaDeControle/5Foreach.md)
+6. [Break Continue](/4EstruturaDeControle/6BreakContinue.md)
+
 
 ### You can find me 📞
 

@@ -22,7 +22,7 @@ em cada um dos seus elementos por meio da cláusula `AS`.
 ```
 
 
-### Ir para [Continue](6Continue.md)🚀
+### Ir para [Continue](6BreakContinue.md)🚀
 
 #
 @allanrodriguesmachado
