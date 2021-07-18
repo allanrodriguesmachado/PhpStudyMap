@@ -30,9 +30,12 @@
 10. [Null](/2Variaveis/10Null.md)
 11. [Constante](/2Variaveis/11Constante.md)
 
+### Operadores
+0. [Atribuição](/3Operadores/)
+1. [Aritmético](/3Operadores/)
+2. [Relacionais](/3Operadores/)
+3. [Lógicos](/3Operadores/)
 
-
-#
 
 ### You can find me 📞
 

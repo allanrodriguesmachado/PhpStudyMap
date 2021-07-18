@@ -7,7 +7,19 @@
 - [x]  Comentários
 - [x]  Comandos de saída
 
-# 
+## 2.1 Variáveis 
+
+- [x]  Variáveis
+- [x]  Booleano
+- [x]  Numérico
+- [x]  String
+- [x]  Array
+- [x]  Objeto
+- [x]  Recurso
+- [x]  Misto
+- [x]  Callback
+- [x]  Null
+- [x]  Constante
 
 ### You can find me 📞
 
