@@ -1,11 +1,11 @@
 
 <?php
 
-$a = 10;
-$b = 20;
+$tempoBom = true;
+$dinheiro = true;
 
-echo $a + $b;
-echo $a - $b;
-echo $a / $b;
-echo $a * $b;
-echo $a % $b;
+if($tempoBom && $dinheiro){
+    echo "O Tempo esta bom e tenho dinheiro, vamos sair";
+} else{
+    echo "O tempo não esta bom e não tenho dinheiro, não vamos sair";
+}

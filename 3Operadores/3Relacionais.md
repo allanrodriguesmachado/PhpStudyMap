@@ -21,17 +21,30 @@ sempre seu retorno será um valor boolean `TRUE` ou `FALSE`
 > 
 > * `>=` Maior ou igual
 
+### Observação
+> O PHP considera o valor zero sendo falso na comparação.
+
 #
 
 ```php
 <?php
+ 
+$a = 1234;
+$b = '1234';
 
+    var_dump($a == $b);
+    var_dump($a === $b);
+    var_dump($a != $b);
+    var_dump($a > $b);
+    var_dump($a >= $b);
+    var_dump($a < $b);
+    var_dump($a <= $b);
 
 ?>
 ```
 
 
-### Ir para []()🚀
+### Ir para [Lógicos](4Logicos.md)🚀
 
 #
 @allanrodriguesmachado
