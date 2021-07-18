@@ -17,7 +17,7 @@
 > `%` Módulo "Resto da divisão"
 
 
-### Cuidados
+### Observação
 > * Em cálculos complexos sempre utilizar os parênteses.
 > * O PHP faz uma conversão de forma automatica das operçãoes. 
 
