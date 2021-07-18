@@ -21,7 +21,27 @@
 - [x]  Null
 - [x]  Constante
 
-### You can find me 📞
+## 3.1 Operadores
+
+
+## 4.1 Estrutura de controle
+
+
+## 5.1 Requisição de arquivos
+
+
+## 6.1 Manipulação de funções
+
+## 7.1 Manipulação de arquivos e diretórios
+
+
+## 8.1 Manipulação de string
+
+## 9.1 Manipulação de arrays
+
+## 10.1 Manipulação de Objetos
+
+#### You can find me 📞
 
 <p>
 <a href="mailto:allan.rodrigues14@hotmail.com" alt="E-mail" target="_blank">
