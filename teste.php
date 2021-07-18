@@ -1,11 +1,14 @@
 
 <?php
 
-$tempoBom = true;
-$dinheiro = true;
+for($a = 1; $a <= 10; $a++){
+    if($a % 2 === 0){
+        continue;
+    }
 
-if($tempoBom && $dinheiro){
-    echo "O Tempo esta bom e tenho dinheiro, vamos sair";
-} else{
-    echo "O tempo não esta bom e não tenho dinheiro, não vamos sair";
+    if($a > 7){
+        break;
+    }
+
+    echo "Pulou + 2 :: {$a}";
 }
