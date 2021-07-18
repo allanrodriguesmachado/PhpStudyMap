@@ -37,7 +37,7 @@
 ```
 
 
-### Ir para [Aritmeticos](2Aritmeticos.md)🚀
+### Ir para [Aritmeticos](/2Aritmeticos.md)🚀
 
 #
 @allanrodriguesmachado
