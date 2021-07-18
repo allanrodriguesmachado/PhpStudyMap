@@ -35,7 +35,7 @@ palavras `TRUE` ou `FALSE`
 > * Um objeto sem elementos
 > * Tipo NULL
 
-### Ir para [Tipo numérico](3Numero.md)🚀
+### Ir para [Tipo numérico](3Numerico.md)🚀
 
 #
 @allanrodriguesmachado
