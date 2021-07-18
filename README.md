@@ -36,10 +36,10 @@
 11. [Constante](/2Variaveis/11Constante.md)
 
 ### Operadores
-0. [Atribuição](/3Operadores/)
-1. [Aritmético](/3Operadores/)
-2. [Relacionais](/3Operadores/)
-3. [Lógicos](/3Operadores/)
+0. [Atribuição](/3Operadores/1Atribuicao.md)
+1. [Aritmético](/3Operadores/2Aritmeticos.md)
+2. [Relacionais](/3Operadores/3Relacionais.md)
+3. [Lógicos](/3Operadores/4Logicos.md)
 
 
 ### You can find me 📞
