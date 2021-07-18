@@ -59,7 +59,7 @@
 ```
 
 
-### Ir para []()🚀
+### Ir para [Estrutura de Controle](/E)🚀
 
 #
 @allanrodriguesmachado
