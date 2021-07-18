@@ -16,7 +16,7 @@
 ```
 
 
-### Ir para [](/)🚀
+### Ir para []()🚀
 
 #
 @allanrodriguesmachado

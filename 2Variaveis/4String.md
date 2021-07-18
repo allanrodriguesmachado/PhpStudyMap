@@ -19,7 +19,7 @@ duplas `" "`
 ```
 
 
-### Ir para [Array](/Array.md)🚀
+### Ir para [Array](5Array.md)🚀
 
 #
 @allanrodriguesmachado
