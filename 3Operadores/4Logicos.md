@@ -59,7 +59,7 @@
 ```
 
 
-### Ir para [Estrutura de Controle](/4EstruturaDeControle/IfElse.md)🚀
+### Ir para [Estrutura de Controle](/4EstruturaDeControle/1IfElse.md)🚀
 
 #
 @allanrodriguesmachado
