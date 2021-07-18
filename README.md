@@ -1,8 +1,8 @@
 # Allan Rodrigues Macahado 🚀
 	
->Olá Sou o Allan Rodrigues Machado,estou criando um roadmap em  PHP da minha base de estudos, estou iniciando minha carreira e pretendo documentar tudo não só para estudo próprio, mas com a intenção principal de contribuir com a comunidade e ajudar de alguma forma quem está começando.
+>Olá Sou o Allan Rodrigues Machado, estou desenvolvendo um roadmap em  PHP da minha base de estudos, estou iniciando a minha carreira e pretendo documentar tudo não só para estudo próprio, mas com a intenção principal de contribuir com a comunidade e ajudar de alguma forma quem está começando.
 >
->Estou aberto a sugestões e correções se possível deixei seu feedback ficarei muito grato.  #BoraProgramar
+>Estou aberto a sugestões e correções se possível deixe seu feedback.  #BoraProgramar
 
 #
 
@@ -14,11 +14,22 @@
 
 ### Introdução
 0. [Delimitadores De Código](/1Basico/DelimitadoresDeCódigo.md)
-1. [Comentarios](/1Basico/Comentarios.md)
+1. [Comentários](/1Basico/Comentarios.md)
 2. [Comandos De Saida ](/1Basico/ComandosDeSaida.md) 
 
-### Variaveis
-0. [Variaveis](/2Variaveis/1Variaveis.md)
+### Variáveis
+0. [Variáveis](/2Variaveis/1Variaveis.md)
+2. [Booleano](/2Variaveis/2Booleano.md)
+3. [Numérico](/2Variaveis/3Numerico.md)
+4. [String](/2Variaveis/4String.md)
+5. [Array](/2Variaveis/5Array.md)
+6. [Objeto](/2Variaveis/6Objeto.md)
+7. [Recurso](/2Variaveis/7Recurso.md)
+8. [Misto](/2Variaveis/8Misto.md)
+9. [Callback](/2Variaveis/9Callback.md)
+10. [Null](/2Variaveis/10Null.md)
+11. [Constante](/2Variaveis/11Constante.md)
+
 
 
 #

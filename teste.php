@@ -1,8 +1,8 @@
-<?php
-$age = 25;
 
-if($age >= 25){
-    echo "TRUE";
-}else{
-    echo "FALSE";
+<?php
+
+function pessoa($dados)
+{
+    echo "Meu nome é $dados, #BoraProgramar";
 }
+call_user_func('pessoa', "Allan");
