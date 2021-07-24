@@ -1,4 +1,4 @@
-# Allan Rodrigues Macahado 🚀
+# Allan Rodrigues Machado 🚀
 	
 >Olá Sou o Allan Rodrigues Machado, estou desenvolvendo um roadmap em  PHP da minha base de estudos, estou iniciando a minha carreira e pretendo documentar tudo não só para estudo próprio, mas com a intenção principal de contribuir com a comunidade e ajudar de alguma forma quem está começando.
 >
