@@ -20,7 +20,7 @@ pode ser alterada a qualquer momento.
 > * É que usando `define` podemos atribuir o nome para a constante no momento em que o código está sendo executado, já 
 > com a `const` isso não é possivel.
 >   * `define` Declara a constante em tempo de execução.
->   * `const` Declara a constante em tempo de complicação.
+>   * `const` Declara a constante em tempo de compilação.
 
 #
 
