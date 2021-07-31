@@ -18,7 +18,7 @@ do arquivo, ele inclui apenas uma vez assim evita sobreposição.
 ```
 
 
-### Ir para [Require once](3RequireOnce.md)🚀
+### Ir para [Require once](4RequireOnce.md)🚀
 
 #
 @allanrodriguesmachado
