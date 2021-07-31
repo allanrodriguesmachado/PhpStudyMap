@@ -54,7 +54,7 @@
 1. [Include](/5RequisicaoDeArquivos/1Include.md)
 2. [Require](/5RequisicaoDeArquivos/2Require.md)
 3. [Include once](/5RequisicaoDeArquivos/3IncludeOnce.md)
-4. [Require once](/5RequisicaoDeArquivos/4Require_once.md)
+4. [Require once](/5RequisicaoDeArquivos/4RequireOnce.md)
 ### You can find me 📞
 
 <p>
