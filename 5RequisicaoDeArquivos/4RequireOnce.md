@@ -18,7 +18,7 @@ do arquivo, ele inclui apenas uma vez assim evita sobreposição.
 ```
 
 
-### Ir para [Require once](3RequireOnce.md)🚀
+### Ir para [Funções](/6ManipulacaoDeFuncoes/)🚀
 
 #
 @allanrodriguesmachado
