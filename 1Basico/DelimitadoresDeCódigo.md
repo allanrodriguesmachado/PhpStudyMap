@@ -5,7 +5,7 @@ PHP code must be written inside the code delimiters as if the code is outside th
 
 
 #### pt-BR
-O código PHP deve ser escrito dentro dos delimitadores de código, pois se o código estiver fora dos delimitadores não será interpretado.
+O código PHP deve ser escrito nos delimitadores de código, pois se o código estiver fora dos delimitadores não será interpretado pelo php.
 
 ###
 

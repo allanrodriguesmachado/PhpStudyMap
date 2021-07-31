@@ -19,7 +19,7 @@ e trava todo a aplicação, caso o arquivo não exista.
 ```
 
 
-### Ir para []()🚀
+### Ir para [Include onde](3IncludeOnde.md)🚀
 
 #
 @allanrodriguesmachado

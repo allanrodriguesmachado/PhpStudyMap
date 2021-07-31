@@ -4,7 +4,8 @@
 
 
 #### pt-BR
-`Include_once` 
+`Include_once` Tem a mesma funcionalidade que o `include`, sua diferença é que ele não faz a inclusão novamente 
+do arquivo, ele inclui apenas uma vez assim evita sobreposição.
 
 #
 
@@ -16,7 +17,7 @@
 ```
 
 
-### Ir para []()🚀
+### Ir para [Require once](3RequireOnce.md)🚀
 
 #
 @allanrodriguesmachado

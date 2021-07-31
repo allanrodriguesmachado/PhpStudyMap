@@ -1,7 +1,4 @@
-#                
-
-#### en-US
-
+# Comandos de saída                 
 
 #### pt-BR
 Os comandos de saída são usados para gerar uma saída na tela, isso é chamado de output
