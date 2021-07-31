@@ -18,7 +18,7 @@ do arquivo, ele inclui apenas uma vez assim evita sobreposição.
 ```
 
 
-### Ir para [Funções](/6ManipulacaoDeFuncoes/)🚀
+### Ir para [Funções](/6ManipulacaoDeFuncoes/1Funcao.md)🚀
 
 #
 @allanrodriguesmachado

@@ -1,14 +1,9 @@
 
 <?php
 
-for($a = 1; $a <= 10; $a++){
-    if($a % 2 === 0){
-        continue;
-    }
-
-    if($a > 7){
-        break;
-    }
-
-    echo "Pulou + 2 :: {$a}";
+function cadastroUsuario($nome, $idade, $email){
+    $dados = $nome . $idade . $email;
+    return $dados;
 }
+
+echo cadastroUsuario('Allan ', 25, ' allan@php.com');
