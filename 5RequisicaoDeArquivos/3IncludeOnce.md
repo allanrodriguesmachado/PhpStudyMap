@@ -12,7 +12,8 @@ do arquivo, ele inclui apenas uma vez assim evita sobreposição.
 ```php
 <?php
 
-
+    require_once "arquivo.php";
+    
 ?>
 ```
 
