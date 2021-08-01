@@ -55,6 +55,14 @@
 2. [Require](/5RequisicaoDeArquivos/2Require.md)
 3. [Include once](/5RequisicaoDeArquivos/3IncludeOnce.md)
 4. [Require once](/5RequisicaoDeArquivos/4RequireOnce.md)
+
+### Funções
+1. [Função](/6ManipulacaoDeFuncoes/1funcao.md)
+2. [Globais](/6ManipulacaoDeFuncoes/2Globais.md)
+3. [Estáticas](/6ManipulacaoDeFuncoes/3Estaticas.md)
+4. [Parâmetro](/6ManipulacaoDeFuncoes/4Parametro.md)
+
+
 ### You can find me 📞
 
 <p>
