@@ -26,7 +26,7 @@
 ```
 
 
-### Ir para []()🚀
+### Ir para [Global](2Globais.md)🚀
 
 #
 @allanrodriguesmachado

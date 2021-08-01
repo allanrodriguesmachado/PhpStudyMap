@@ -1,9 +1,12 @@
 
 <?php
 
-function cadastroUsuario($nome, $idade, $email){
-    $dados = $nome . $idade . $email;
-    return $dados;
+
+
+function soma(&$valor1, $valor2){
+    $valor1 += $valor2;
 }
 
-echo cadastroUsuario('Allan ', 25, ' allan@php.com');
+$valor3 = 20;
+soma($valor3, 30);
+echo $valor3;
