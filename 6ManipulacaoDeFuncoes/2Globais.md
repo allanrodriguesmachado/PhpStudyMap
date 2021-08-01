@@ -4,7 +4,7 @@
 `global` Tem acesso a uma variável externa da funçao, a variavel `global` pode ser acessada a qualquer ponto
 da aplicação.
 
-###Cuidado
+### Cuidado
 
 * Toda variável declarada, esta no escopo da função e são locais, com exceção da `global`
 
