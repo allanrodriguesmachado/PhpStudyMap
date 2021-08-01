@@ -1,4 +1,4 @@
-#Função Estática
+# Função Estática
 
 #### pt-BR
 `static` A função estática armazena valores de forma estática, mantendo o valor que foi atribuído na última execução.
