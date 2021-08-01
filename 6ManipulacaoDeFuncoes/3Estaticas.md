@@ -26,7 +26,7 @@
 ```
 
 
-### Ir para [Parâmetros](4Parametros.md)🚀
+### Ir para [Parâmetros](4Parametro.md)🚀
 
 #
 @allanrodriguesmachado
