@@ -3,10 +3,13 @@
 
 
 
-function soma(&$valor1, $valor2){
-    $valor1 += $valor2;
+function fatorial($numero){
+    if($numero <= 1){
+        return $numero;
+    }else{
+        return $numero * fatorial($numero - 1);
+    }
 }
 
-$valor3 = 20;
-soma($valor3, 30);
-echo $valor3;
+//4*3*2 = 24
+echo fatorial(4);
