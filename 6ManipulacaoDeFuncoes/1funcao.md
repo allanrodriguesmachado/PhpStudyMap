@@ -4,7 +4,7 @@
 `function` É o operador usado para criar uma função no PHP.
 
 
-###Observação
+### Observação
 >*  Nunca utilizar espaços em branco e sempre iniciar a função com uma letra
 >*  Passar os argumentos da função sempre na mesma linha, separados por vírgula
 >*  Sempre fazer o encapsulamento por chaves `{}`
