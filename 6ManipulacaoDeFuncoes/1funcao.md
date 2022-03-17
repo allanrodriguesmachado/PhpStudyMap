@@ -15,7 +15,7 @@
 ```php
 <?php
     
-    function cadastroUsuario($nome, $idade, $email): string
+    function cadastroUsuario(string $nome, int $idade, string $email)
     {
         $dados = $nome . $idade . $email;
         return $dados;
