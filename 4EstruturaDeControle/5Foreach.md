@@ -12,9 +12,12 @@ em cada um dos seus elementos por meio da cláusula `AS`.
 ```php
 <?php
     
-    $pessoa = array("Allan", "Rodrigues", " - Dev PHP");
+    $pessoa = ["Allan",
+     "Rodrigues",
+      " - Dev PHP"
+      ];
 
-    foreach ($pessoa as $value){
+    foreach ($pessoa AS $value){
         print "$value ";
     }
 

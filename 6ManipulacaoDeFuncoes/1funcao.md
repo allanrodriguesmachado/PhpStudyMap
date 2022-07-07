@@ -15,10 +15,9 @@
 ```php
 <?php
     
-    function cadastroUsuario(string $nome, int $idade, string $email)
+    function cadastroUsuario(string $nome, int $idade, string $email): string|bool
     {
-        $dados = $nome . $idade . $email;
-        return $dados;
+        return $dados = $nome . $idade . $email;
     }
 
     echo cadastroUsuario('Allan ', 25, ' allan@php.com');

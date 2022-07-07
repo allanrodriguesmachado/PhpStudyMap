@@ -1,58 +1,130 @@
-# Comandos de saída                 
+# Comandos de saída            
 
-#### pt-BR
-Os comandos de saída são usados para gerar uma saída na tela, isso é chamado de output
+---
 
-##
+#### pt-br
+São usados para gerar uma saída em tela (OUTPUT).
 
-`echo` Retornar uma ou mais string, 
-* echo não é uma função(construtora da linguagem), então não é obrigatório o uso de parênteses.
+* Linhas de comando executadas no `prompt do sistema` sua saída será no proprio console.
+* Linhas de comando executadas no `servidor web -  Apache, NGINX ou IIS` sua saída será no propria pagina HTML.
+
+#### en-us
+They are used to generate an output on the screen (OUTPUT).
+
+* Command lines executed in the `system prompt` will be output in the console itself.
+* Command lines executed on the `web server - Apache, NGINX or IIS` will be output in the HTML page itself.
+
+---
+
+
+##### pt-br
+ `echo` É um comando usado para imprimir uma ou mais string na tela.  
 ```php
 <?php
-    
     echo 'Hello World';
 ?>
 ```
+`Output` Hello World
 
-###
-
-`print` É uma função que imprime uma string no console.
-* print é uma função(construtura da linguagem), então precisando sempre que usar o print usar os parênteses
+#### en-US
+`echo` Is a command used to print one or more strings to the screen.
 ```php
 <?php
-    
-    echo ('Hello World');
+    echo 'Hello World';
 ?>
 ```
+`Output` Hello World
 
-###
+---
 
-`var_dump` É uma função usada para fazer debug no código.
-* mostra informação sobre a variável, ela retorna toda estrutura sobre uma ou mais expressões, incluindo o tipo e o valor.
+##### pt-br
+`var_dump` Explana todo conteúdo de uma variável, mostrando toda estrutura sobre uma ou mais
+Expressão, incluindo o tipo e o valor
 
 ```php
 <?php
-    
-   $dados = array('firstName', 'lastName');
-   
-   var_dump($dados);
+$user = [
+    "fisrt_name" => "Allan",
+    "last_name" => "Rodrigues"
+];
+
+var_dump($user);
 ?>
 ```
+`Output`
 
-###
+    array(2) {
+        ["first_name"]=>
+        string(5) "Allan"
+        ["last_name"]=>
+        string(9) "Rodrigues"
+    }
 
-`print_r` É uma função usada para fazer debug no código igual o var_dump
-* Sua diferença que o retorno de uma variável vem de forma legível, e precisamos tomar cuidado pois o print_r move o ponteiro 
-do array para o fim, nesse caso devemos sempre usar o `reset()`.
+##### en-US
+`var_dump` Explains the entire contents of a variable, showing the entire structure over one or more
+Expression, including type and value
+
+```php
+<?php
+$user = [
+    "fisrt_name" => "Allan",
+    "last_name" => "Rodrigues"
+];
+
+var_dump($user);
+?>
+```
+`Output`
+
+    array(2) {
+        ["first_name"]=>
+        string(5) "Allan"
+        ["last_name"]=>
+        string(9) "Rodrigues"
+    }
+
+---
+
+##### pt-br
+`print_r` Explana todo conteúdo de uma variável igual ao `var_dump`, mas em um formato mais legivel e suprimindo os dados.
   
 ```php
 <?php
-    
-   $dados = array('firstName', 'lastName');
+$user = [
+        "fisrt_name" => "Allan",
+        "last_name" => "Rodrigues"
+    ];
    
-   print_r($dados);
+ print_r($user);
 ?>
 ```
+    Array
+    (
+        [fisrt_name] => Allan
+        [last_name] => Rodrigues
+    )
+
+
+##### en-US
+`print_r` explain all contents of a variable like `var_dump`, but in a more readable format and suppressing the data.
+
+```php
+<?php
+$user = [
+        "fisrt_name" => "Allan",
+        "last_name" => "Rodrigues"
+    ];
+   
+ print_r($user);
+?>
+```
+    Array
+    (
+        [fisrt_name] => Allan
+        [last_name] => Rodrigues
+    )
+
+
 
 ### Ir Para [Variaveis](/2Variaveis/1Variaveis.md) 🚀
 

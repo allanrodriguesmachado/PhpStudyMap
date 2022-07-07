@@ -10,7 +10,7 @@ parâmetro. O valor da variável será alterado no escopo global.
 <?php
 
     function soma(&$valor1, $valor2){
-    $valor1 += $valor2;
+    return $valor1 += $valor2;
     }
     
     $valor3 = 20;

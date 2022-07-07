@@ -5,7 +5,7 @@
 
 #### pt-BR
 `Variáveis` São identificadores utilizados para representar valores mutáveis e voláteis, tem a funcionalidade de guardar dados.
-O seu valor pode ser modificado ao longo do código ou até mesmo apresentado.
+O seu valor pode ser modificado ao longo do código.
 
 Para declarar uma variável usamos o dollar($) e logo em seguida o identificador (nome da variável).
 
@@ -13,9 +13,9 @@ Para declarar uma variável usamos o dollar($) e logo em seguida o identificador
 
 ```php
 <?php
-    
     $firstName = "Allan";
     $lastName = "Rodrigues";
+    
     echo $firstName, $lastName;
 ?>
 ```
@@ -34,7 +34,7 @@ Para declarar uma variável usamos o dollar($) e logo em seguida o identificador
 
 O PHP é case sensitive, isso significa que o seu conteúdo é sensível a letras, maiúsculas e minúsculas. Devemos sempre 
 ter cuidado ao declarar nossas variáveis, pois a variável `$firstName` é tratada de uma forma totalmente diferente da 
-variável `$FirstName` o PHP entende serem variáveis com valores totalmente diferentes.
+variável `$FirstName` o PHP entende serem variáveis com valores diferentes.
 
 ### Ir para [Booleano](2Booleano.md)🚀
 

@@ -1,6 +1,7 @@
-# Função global            
+# Função global
 
 #### pt-BR
+
 `global` Tem acesso a uma variável externa da funçao, a variavel `global` pode ser acessada a qualquer ponto
 da aplicação.
 
@@ -15,7 +16,7 @@ da aplicação.
     
     function calcImc(): float
     {
-        global $peso
+        global $peso;
         global $altura;
         return $peso / ($altura * $altura);
     }
@@ -27,8 +28,8 @@ da aplicação.
 ?>
 ```
 
-
 ### Ir para [Estáticas](3Estaticas.md)🚀
 
 #
+
 @allanrodriguesmachado
